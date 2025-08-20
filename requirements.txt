@@ -1,4 +1,3 @@
-python-telegram-bot==20.5
 openai
 deep-translator
 yt-dlp
